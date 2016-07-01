@@ -2,7 +2,7 @@
 
 ### Where do superstitions sit in a connect world? Inspired by the ‘Tea Towel of Fisheries Superstitions’ in the Scottish Fisheries Museum, we have made our own as a way to see thoughts and new myths.
 
-*By Babitha, Jayne, Nick, Mike, Erika, Justin, Sean*
+*By Babitha George, Jayne Wallace, Nick Taylor, Mike Shorter, Erika Shorter, Justin Marshall, Sean at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 Inspiration found in Anstruther: 
 
